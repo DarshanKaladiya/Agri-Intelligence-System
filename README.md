@@ -74,4 +74,4 @@ The main goal of this project is to provide intelligent insights from agricultur
 
 ## 👨‍💻 Author
 
-**Darshan Kaladiya**
+**Darshan Kaladiya** - www.linkedin.com/in/darshan-kaladiya-968093346
